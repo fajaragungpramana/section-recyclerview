@@ -53,7 +53,7 @@ data class Name(
     val listName: List<String>
 ) : Section(date)
 ```
-on the class `Section` constructor fill with `title` you want in section list, in this case i use `date` variable as the title of section list.
+on the class `Section` constructor fill with `title` you want to show in section list, in this case i use `date` variable as the title of section list.
 </br>
 </br>
 then create class recycler view adapter for your layout adapter, for example i create class named `NameAdapter`.
@@ -145,6 +145,37 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
+## Preview
+</br>
+</br>
+<a href="url"><img src="https://github.com/fajaragungpramana/assets/blob/master/SectionRecyclerView/SectionRecyclerView.gif" align="left" height="640" width="320" ></a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## License
 Copyright 2021 Fajar Agung Pramana
