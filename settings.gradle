@@ -1,0 +1,3 @@
+include ':sectionrecyclerview'
+include ':app'
+rootProject.name = "SerctionRecyclerview"
